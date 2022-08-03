@@ -149,3 +149,6 @@ C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Client
 C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Polly.dll
 C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
 C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
