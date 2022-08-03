@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Av29kU+xgyDnCuAgQ6JRxoAolF9tZsFNfNGrJaOlxmX2yvORbRTIOTlXI+nDD0fhidXPAkGrWhHHhYTbVnc4AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Downloads\\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\\src\\services\\NSE.Pedidos.API\\NSE.Pedidos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

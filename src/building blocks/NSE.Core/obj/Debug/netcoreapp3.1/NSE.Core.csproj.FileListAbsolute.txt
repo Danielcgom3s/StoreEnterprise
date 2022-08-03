@@ -1,0 +1,10 @@
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb

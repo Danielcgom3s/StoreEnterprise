@@ -1,0 +1,13 @@
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.deps.json
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfo.cs
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CopyComplete
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\danie\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-04 - API de Clientes (1)\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.pdb
